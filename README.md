@@ -1,6 +1,9 @@
 
-# Supervised Learning
-## Project: Finding Donors for CharityML
+# Finding Donors for CharityML
+
+This project was developed as part of the Udacity Intro to Machine Learning Nanodegree.
+
+The notebook containing the code can be found [here](finding_donors.ipynb).
 
 ### Install
 
